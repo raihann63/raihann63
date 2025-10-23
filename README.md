@@ -1,4 +1,4 @@
-![DS/ML](https://media.licdn.com/dms/image/v2/D5603AQG3dMGEunmbzQ/profile-displayphoto-scale_400_400/B56ZoBVPJEJoAg-/0/1760958939643?e=1762992000&v=beta&t=DUwI9J2xlLW3VbAJmc9Me5XDLne088bK9FFGuWqPbyc)
+![DS/ML](https://media.licdn.com/dms/image/v2/D5616AQHN0485LGtAwg/profile-displaybackgroundimage-shrink_350_1400/B56ZmFwFQ0J0AY-/0/1758885599444?e=1762992000&v=beta&t=qDEqip5SfxmPjMLDVkFcagzeEY-_0xrDvEbMb0tzM1Y)
 
 
 <h1 align="center">Assalamu Alaikum</h1>
