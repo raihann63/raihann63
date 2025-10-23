@@ -1,4 +1,4 @@
-![DS/ML](https://media.licdn.com/dms/image/v2/D5616AQFboO0QJ_X27g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723900866905?e=1729728000&v=beta&t=DLIRLqFBpk1Wco1Y6bASo6RNc6lJDhOGZRC6h7WOJmI)
+![DS/ML](https://media.licdn.com/dms/image/v2/D5603AQG3dMGEunmbzQ/profile-displayphoto-scale_400_400/B56ZoBVPJEJoAg-/0/1760958939643?e=1762992000&v=beta&t=DUwI9J2xlLW3VbAJmc9Me5XDLne088bK9FFGuWqPbyc)
 
 
 <h1 align="center">Assalamu Alaikum</h1>
@@ -12,7 +12,7 @@
 
 - 💬 Now Let's go discuss anything about **Python, Data Science & Mechine Learning**
 
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/raihan63/)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/raihaan-du-ml/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
